@@ -8,4 +8,5 @@
 pkg install python
 
 pkg install figlet
+
 python FAT.py
